@@ -9,8 +9,7 @@ Este es un proyecto de prueba creado para aprender a usar Git y GitHub. Incluye 
 
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-repo.git
-# Este es el final del código bash
----
+```
 
 ## 🧠 Cómo ejecutar el proyecto
 
@@ -21,6 +20,7 @@ Este proyecto contiene un archivo de texto o código simple. Para verlo:
 
 ```bash
 python maintext.py
+```
 ## 🤝 Cómo contribuir
 
 Invita a otras personas a colaborar y explica cómo deben hacerlo.
