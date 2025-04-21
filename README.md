@@ -1,8 +1,8 @@
 # Proyecto de Prueba con Git y GitHub
 
-Este es un proyecto de prueba creado para aprender a usar Git y GitHub. Incluye la creación de ramas, commits, fusión y colaboración básica.**
+Este es un proyecto de prueba creado para aprender a usar Git y GitHub. Incluye la creación de ramas, commits, fusión y colaboración básica.
 
-## Cómo clonar el repositorio
+## 📥Cómo clonar el repositorio
 
 1. Abre una terminal
 2. Escribe el siguiente comando:
