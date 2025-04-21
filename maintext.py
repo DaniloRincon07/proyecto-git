@@ -1,3 +1,1 @@
-print ("primer texto")
-print ("segundo texto")
-print ("Tercer Texto")
+print ("Contenido GitHub")
