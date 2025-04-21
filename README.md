@@ -22,22 +22,18 @@ Este proyecto contiene un archivo de texto o código simple. Para verlo:
 ```bash
 python maintext.py
 
-## 4. 🤝 Cómo contribuir
+## 🤝 Cómo contribuir
 
 Invita a otras personas a colaborar y explica cómo deben hacerlo.
 
 Si deseas contribuir a este proyecto:
 
 1. Haz un fork del repositorio.
-2. Crea una rama nueva con tu cambio:
+2. Crea una rama nueva con tu cambio.
+3. Realiza los cambios y haz el commit.
+4. Haz push a tu rama.
 
 ```bash
 git checkout -b mejora-mi-cambio
-
-Por ultimo realizar los cambios y hacer el commit:
-
 git commit -m "Agrega nueva funcionalidad"
-
-Hazle un Push a tu rama
-
 git push origin mejora-mi-cambio
